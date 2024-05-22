@@ -25,9 +25,10 @@ canciones: localhost:7013/canciones/
 swagger: http://localhost:7013/swagger-ui/index.html 
 
 # Imagenes de swagger y base de datos.
-![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/4d4c1e6e-1231-4539-893b-d4b2b20f444e)
+![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/b479c658-bc8e-4422-b4b3-f08f69db94ef)
 
-![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/0ea85fa0-a910-496a-a85e-017a0f83bce1)
+![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/7528caae-48d9-4082-9e32-874be0586a9d)
+
 
 ![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/f1af383d-6c7f-432a-bf85-5744e54a854e)
 
