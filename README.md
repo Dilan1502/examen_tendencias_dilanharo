@@ -1,16 +1,19 @@
 # JSON cantantes 
 cantantes: localhost:7013/cantantes/
 
+```json
 {
   "id": 1,
   "nombre": "dilan",
   "edad": 28,
   "fechaDeNacimiento": "2000-05-21"
 }
+```
 
 # JSON canciones 
 canciones: localhost:7013/canciones/
 
+```json
 {
   "titulo": "lagrimas de amor",
   "esHit": true,
@@ -20,6 +23,7 @@ canciones: localhost:7013/canciones/
     "id":1
   }
 }
+```
 
 # Link de swagger 
 swagger: http://localhost:7013/swagger-ui/index.html 
