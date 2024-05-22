@@ -36,6 +36,9 @@ swagger: http://localhost:7013/swagger-ui/index.html
 
 ![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/f3a6fa7b-6fa2-4222-92e5-5786d721b44e)
 
+![image](https://github.com/Dilan1502/examen_tendencias_dilanharo/assets/102638198/e76292f5-9d30-4488-aee1-17570b095a73)
+
+
 
 
 
